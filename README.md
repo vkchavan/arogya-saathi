@@ -11,15 +11,6 @@ Built for **Smart India Hackathon 2025** – Problem Statement: *Telemedicine Ac
 - Enable ASHA/ANM workers to deliver trusted healthcare at the village level
 - Link patients → doctors → pharmacies via kiosks
 
----
-
-## 🛠️ Team Roles
-- Android Frontend Lead – [Name]
-- Backend/Database Lead – [Name]
-- AI/ML Lead – [Name]
-- Hardware/Integration Lead – [Name]
-- Documentation & Demo Lead – [Name]
-- QA/Coordinator (Team Lead) – [Name]
 
 ---
 
